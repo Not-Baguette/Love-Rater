@@ -6,6 +6,11 @@ A simple, easily modifiable love rater made in python
 
 ![image](https://user-images.githubusercontent.com/94969176/206136240-479253c5-0060-463f-8ef9-76a119a5856e.png)
 
+
+### On use
+![image](https://user-images.githubusercontent.com/94969176/206138037-74f9f606-515a-48d7-a452-66400829b4fe.png)
+
+
 ## Requirements
 - Python 3.8 or up
 - Tkinter
