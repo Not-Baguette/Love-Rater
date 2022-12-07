@@ -11,4 +11,4 @@ A simple, easily modifiable love rater made in python
 - Tkinter
 
 ## Current condition
-Stable build, I don't think there will be any modification needed in the future except if Software rot take hold of it
+Stable build, I don't think there will be any modification needed in the future except if Software rot takes hold of it
