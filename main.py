@@ -9,7 +9,7 @@ def submit():
     start = 0
     speed = 2
     lovebar['value'] = 0
-    print(f"{name1.get()} & {name2.get()} is a {love}% match!")
+    # print(f"{name1.get()} & {name2.get()} is a {love}% match!")
     while start < love:
         start += speed
         lovebar['value'] += speed
