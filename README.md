@@ -9,3 +9,6 @@ A simple, easily modifiable love rater made in python
 ## Requirements
 - Python 3.8 or up
 - Tkinter
+
+## Current condition
+Stable build, I don't think there will be any modification needed in the future except if Software rot take hold of it
