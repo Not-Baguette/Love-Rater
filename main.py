@@ -17,7 +17,7 @@ def submit():
         time.sleep(0.05)
         root.update_idletasks()
 
-    # jika kelebihan kode ini akan jalan untuk membalikkannya lagi
+    # if it overfills, this piece of code will stop it
     if start > love:
         lovebar['value'] = love
         percent.set(str(f"{love}% Match!"))
