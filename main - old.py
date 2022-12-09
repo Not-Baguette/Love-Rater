@@ -1,3 +1,7 @@
+"""
+This is the old version made completely from tkinter. I have migrated it to costumtkinter library which offers more design
+"""
+
 from tkinter import *
 from tkinter.ttk import *
 import random
